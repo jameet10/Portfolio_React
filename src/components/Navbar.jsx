@@ -19,6 +19,12 @@ function Navbar()
          <li className="nav-item">
           <a className="nav-link active text-primary-emphasis" aria-current="page" href="#">MyProjects</a>
         </li>
+         <li className="nav-item">
+          <a className="nav-link active text-primary-emphasis" aria-current="page" href="#">Progress</a>
+        </li>
+         <li className="nav-item">
+          <a className="nav-link active text-primary-emphasis" aria-current="page" href="#">Certificates</a>
+        </li>
   </ul>
         {/* <li className="nav-item">
           <a className="nav-link" href="#">Link</a>

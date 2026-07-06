@@ -7,21 +7,22 @@ function About()
  <h1 className="text-center my-5">About Me</h1>
             <div className="row">
                 <div className="col-lg-6">
-                    <img src={img} alt="MyImg"  className="img-fluid"/>
+                    <img src={img} alt="MyImg"  className="img-fluid rounded-5"/>
                 </div>
                 <div className="col-lg-6">
-                <h2 className="text-center my-4 ">FULL STACK DEVELOPER</h2>
-                <div className="row">
-                    <div className="col-lg-6 p-4 ">
-                       <h4>Name: xyz</h4> 
-                       <h4>Email:xyz@gmail.com</h4>
-                       <h4>Phone No- 999999999</h4>
+                <div className="row d-flex ">
+                    
+                    <div className="col-lg-6 pt-2 ">
+                       <h5>Name: xyz</h5> 
+                       <h5>Email:xyz@gmail.com</h5>
+                       <h5>Phone No- 999999999</h5>
                     </div>
-                    <div className="col-lg-6 p-4">
-                        <h4>Experience:x years</h4> 
-                       <h4>Location:Lucknow</h4>
-                       <h4>Freelance- Available</h4>
+                    <div className="col-lg-6 pt-2">
+                        <h5>Experience:x years</h5> 
+                       <h5>Location:Lucknow</h5>
+                       <h5>Freelance- Available</h5>
                     </div>
+                 
                 </div>
                 </div>
             </div>
