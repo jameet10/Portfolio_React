@@ -5,7 +5,7 @@ function Project() {
     return (
         <>
             <section className="container">
-                <h1 className="text-center my-5">My Projects</h1>
+                <h1 className="text-center my-5 fst-italic">My Projects</h1>
                 <div className="row">
                     <div className="col-lg-4 my-4">
                         <div className="card" >
