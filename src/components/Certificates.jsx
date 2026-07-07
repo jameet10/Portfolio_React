@@ -14,7 +14,7 @@ return(
                                     
                                     <div className="card-body">
                                         
-                                        <img src={img1} alt="" style={{height:'200px'}} />
+                                        <img src={img1} alt="" className="img-fluid" />
                                         <h4 className="pt-2">DSA Challenge</h4>
                                     </div>
                                 </div>
@@ -24,7 +24,7 @@ return(
                                     
                                     <div className="card-body">
                                         
-                                        <img src={img2} alt="" style={{height:'200px'}} />
+                                        <img src={img2} alt="" className="img-fluid"  />
                                          <h4 className="pt-2">Python Internship</h4>
                                     </div>
                                 </div>
@@ -33,8 +33,8 @@ return(
                                     
                                     <div className="card-body">
                                         
-                                        <img src={img3} alt="" style={{height:'188px'}} />
-                                         <h4 className="pt-2">Maruti Suzuki- Road Safety Challenge</h4>
+                                        <img src={img3} alt="" className="img-fluid"  />
+                                         <h4 className="pt-2">Suzuki- Road Safety Challenge</h4>
                                     </div>
                                 </div></div>
      </div>
